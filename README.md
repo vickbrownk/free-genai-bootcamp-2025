@@ -45,7 +45,7 @@ In this simulated bootcamp challenge, I’ve been hired as an **AI Engineer** fo
 
 Many students struggle with real-world **English fluency** due to a lack of **interactive, personalized practice**. These **AI-powered applications** aim to bridge that gap.
 
-📌 **See full details in** `[business-proposal.md](https://github.com/Ramsi-K/free-genai-bootcamp-2025/blob/main/projects/genai-architecting/docs/business-proposal.md)`
+📌 **See full details in** [business-proposal.md](https://github.com/Ramsi-K/free-genai-bootcamp-2025/blob/main/projects/genai-architecting/docs/business-proposal.md)
 
 ---
 
