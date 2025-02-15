@@ -1,6 +1,6 @@
 # GenAI Bootcamp 2025
 
-Welcome to my **GenAI Bootcamp 2025** repository! This serves as a documentation of my journey through the **GenAI Bootcamp 2025**, organized by **Andrew Brown**. Throughout this bootcamp, I’ll be designing and developing AI-powered learning applications, focusing on:
+Welcome to my **GenAI Bootcamp 2025** repository! This serves as a documentation of my journey through the **GenAI Bootcamp 2025**, organized by **[Andrew Brown](https://www.exampro.co/)**. Throughout this bootcamp, I’ll be designing and developing AI-powered learning applications, focusing on:
 
 - Real-world **GenAI solutions**
 - **Model selection** and **prompt engineering**
@@ -45,7 +45,7 @@ In this simulated bootcamp challenge, I’ve been hired as an **AI Engineer** fo
 
 Many students struggle with real-world **English fluency** due to a lack of **interactive, personalized practice**. These **AI-powered applications** aim to bridge that gap.
 
-📌 **See full details in** `business-proposal.md`
+📌 **See full details in** `[business-proposal.md](https://github.com/Ramsi-K/free-genai-bootcamp-2025/blob/main/projects/genai-architecting/docs/business-proposal.md)`
 
 ---
 
